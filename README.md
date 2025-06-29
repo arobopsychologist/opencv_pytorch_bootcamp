@@ -1,1 +1,1 @@
-# opencv_pytorch_bootcamp
+# OpenCV Pytorch Bootcamp
